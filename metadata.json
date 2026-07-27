@@ -1,0 +1,10 @@
+{
+  "name": "Remix: GLN Tunnel",
+  "description": "An interactive GLN Tunnel SSH, SSL, and DNS tunneling simulator, network diagnostic dashboard, scan utilities, and payload generator.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
